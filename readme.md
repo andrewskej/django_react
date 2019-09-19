@@ -2,12 +2,11 @@
 - connected by django-cors-header middleware
 
 # Backend - run virtual env
- cd django-react-venv    
- ./Scripts/activate    
+- cd django-react-venv    
+- ./Scripts/activate    
 
-# venv - in backend folder
- python manage.py runserver    
+# venv - in server folder
+- python manage.py runserver    
 
-
-# Frontend - in frontend folder (typical react)
- npm start
+# Frontend - in client folder (typical react)
+- npm start
